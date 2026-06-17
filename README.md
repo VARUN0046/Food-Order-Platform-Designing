@@ -1,7 +1,5 @@
 # Food-Order-Platform-Designing
 
-# Food-Order-Platform-Designing
-
 # Swiggy UI Redesign – Figma Design
 
 ## 📌 Project Overview
